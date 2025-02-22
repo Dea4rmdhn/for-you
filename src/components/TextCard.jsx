@@ -8,3 +8,4 @@ export const TextCard = ({ title, description }) => {
     </div>
   );
 };
+
