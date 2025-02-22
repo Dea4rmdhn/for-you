@@ -65,3 +65,4 @@ function Closing() {
 }
 
 export default Closing;
+
