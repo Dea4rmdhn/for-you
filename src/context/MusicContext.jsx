@@ -67,3 +67,4 @@ export const MusicProvider = ({ children }) => {
 };
 
 export default MusicContext;
+
